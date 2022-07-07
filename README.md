@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alketola
-- 👀 I’m interested in software development, but the girls in the companies' HR first line never let me work again, because of my pause in freedom.
-- 🌱 I’m currently learning AWS so that I could go big easily
-- 💞️ I’m looking to collaborate on C/C++, Kotlin based stuff
+- 👀 I’m interested in software development, SW project management, and software based business in general
+- 🌱 I keep learning new things all the time
+- 💞️ I’m looking to collaborate on C/C++, Kotlin based stuff, or to manage a project
 - 📫 How to reach me, here, or my Gmail.
 
 <!---
